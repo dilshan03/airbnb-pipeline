@@ -1,0 +1,9 @@
+cities:
+  - name: san_francisco
+    url: https://www.airbnb.com/s/San-Francisco--CA--United-States/homes
+    sleep_seconds: 5
+    keep_raw: true
+  - name: boston
+    url: https://www.airbnb.com/s/Boston--MA--United-States/homes
+    sleep_seconds: 5
+    keep_raw: true

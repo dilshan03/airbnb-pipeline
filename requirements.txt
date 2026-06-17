@@ -1,0 +1,5 @@
+pandas
+duckdb
+requests
+PyYAML
+loguru
