@@ -13,14 +13,6 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT_DIR / "config" / "cities.yaml"
 RAW_DIR = ROOT_DIR / "data" / "raw"
 
-# The standard set of files Inside Airbnb publishes per city snapshot.
-FILES_TO_DOWNLOAD = [
-    "listings.csv.gz",
-    "calendar.csv.gz",
-    "reviews.csv.gz",
-    "neighbourhoods.csv",
-]
-
 MAX_RETRIES = 3
 RETRY_DELAY_SECONDS = 5
 
@@ -69,20 +61,24 @@ def download_file(url: str, destination: Path, max_retries: int = MAX_RETRIES) -
     return False
 
 
-def ingest_city(city_name: str, base_url: str) -> None:
-    """Download every required data file for a single city.
+def ingest_city(city_name: str, files: dict) -> None:
+    """Download every configured data file for a single city.
 
     Args:
         city_name: Name used as the city's subfolder under data/raw.
-        base_url: Base URL of the city's Inside Airbnb data directory.
+        files: Mapping of logical file key (e.g. "listings") to its full
+            download URL, as defined per-city in cities.yaml. The local
+            filename is taken from the URL itself, so it naturally matches
+            whatever extension the source uses (.csv.gz vs .csv).
     """
     city_dir = RAW_DIR / city_name
     city_dir.mkdir(parents=True, exist_ok=True)
-    logger.info("Ingesting city '{}' from {}", city_name, base_url)
+    logger.info("Ingesting city '{}' ({} files)", city_name, len(files))
 
-    for filename in FILES_TO_DOWNLOAD:
-        url = f"{base_url.rstrip('/')}/{filename}"
+    for file_key, url in files.items():
+        filename = url.rsplit("/", maxsplit=1)[-1]
         destination = city_dir / filename
+        logger.info("Fetching '{}' for {}", file_key, city_name)
         download_file(url, destination)
 
 
@@ -93,7 +89,7 @@ def ingest() -> None:
     logger.info("Starting ingest for {} cities", len(cities))
 
     for city in cities:
-        ingest_city(city["name"], city["base_url"])
+        ingest_city(city["name"], city["files"])
 
     logger.info("Ingest complete")
 

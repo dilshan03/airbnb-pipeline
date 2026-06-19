@@ -1,5 +1,13 @@
 cities:
   - name: san_francisco
-    base_url: http://data.insideairbnb.com/united-states/ca/san-francisco/2024-09-04/data
+    files:
+      listings: https://data.insideairbnb.com/united-states/ca/san-francisco/2026-03-16/data/listings.csv.gz
+      calendar: https://data.insideairbnb.com/united-states/ca/san-francisco/2026-03-16/data/calendar.csv.gz
+      reviews: https://data.insideairbnb.com/united-states/ca/san-francisco/2026-03-16/data/reviews.csv.gz
+      neighbourhoods: https://data.insideairbnb.com/united-states/ca/san-francisco/2026-03-16/visualisations/neighbourhoods.csv
   - name: boston
-    base_url: http://data.insideairbnb.com/united-states/ma/boston/2024-09-13/data
+    files:
+      listings: https://data.insideairbnb.com/united-states/ma/boston/2025-12-27/data/listings.csv.gz
+      calendar: https://data.insideairbnb.com/united-states/ma/boston/2025-12-27/data/calendar.csv.gz
+      reviews: https://data.insideairbnb.com/united-states/ma/boston/2025-12-27/data/reviews.csv.gz
+      neighbourhoods: https://data.insideairbnb.com/united-states/ma/boston/2025-12-27/visualisations/neighbourhoods.csv

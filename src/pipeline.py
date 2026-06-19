@@ -45,7 +45,7 @@ def run_city(con, city: dict, is_first_city: bool) -> dict:
     status = {"city": city_name, "start_time": start.isoformat()}
 
     try:
-        ingest_city(city_name, city["base_url"])
+        ingest_city(city_name, city["files"])
 
         raw_listings_path = RAW_DIR / city_name / "listings.csv.gz"
         raw_df = load_listings(raw_listings_path)
