@@ -1,0 +1,23 @@
+{
+  "run_start": "2026-06-20T13:00:40.777226",
+  "run_end": "2026-06-20T13:01:00.529450",
+  "duration_seconds": 19.75,
+  "success_count": 2,
+  "failure_count": 0,
+  "cities": [
+    {
+      "city": "Albany",
+      "start_time": "2026-06-20T13:00:40.798258",
+      "status": "success",
+      "end_time": "2026-06-20T13:00:42.906093",
+      "duration_seconds": 2.11
+    },
+    {
+      "city": "Amsterdam",
+      "start_time": "2026-06-20T13:00:42.906093",
+      "status": "success",
+      "end_time": "2026-06-20T13:01:00.445321",
+      "duration_seconds": 17.54
+    }
+  ]
+}
