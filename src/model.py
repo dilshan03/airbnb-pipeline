@@ -69,6 +69,16 @@ def _write_table(
     """
     keys = [primary_key] if isinstance(primary_key, str) else (primary_key or [])
 
+    # DuckDB infers a column's type from its data when registering a
+    # pandas DataFrame. An empty object-dtype column (e.g. a city whose
+    # listings were all filtered out) carries no values to infer from, so
+    # DuckDB defaults it to INTEGER instead of VARCHAR — corrupting the
+    # table schema for every later append. Pinning object columns to
+    # pandas' "string" dtype makes them map to VARCHAR even when empty.
+    object_columns = df.select_dtypes(include="object").columns
+    if len(object_columns):
+        df = df.astype({col: "string" for col in object_columns})
+
     try:
         # DuckDB can query a pandas DataFrame directly if it's registered
         # as a temporary view first.

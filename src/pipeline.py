@@ -1,6 +1,7 @@
 """Orchestrate the full Airbnb pipeline: ingest, profile, clean, enrich, load per city."""
 
 import json
+import sys
 from datetime import datetime
 from pathlib import Path
 
@@ -12,6 +13,12 @@ from clean import load_listings, clean_listings
 from profile import profile_dataframe
 from enrich import enrich_listings
 from model import get_connection, build_star_schema
+
+# loguru's default level icons (e.g. the SUCCESS checkmark) are emoji that
+# Windows' default console encoding (cp1252) can't represent, which crashes
+# every logger.success() call. Reconfiguring stderr to UTF-8 lets them print.
+if sys.stderr.encoding and sys.stderr.encoding.lower() != "utf-8":
+    sys.stderr.reconfigure(encoding="utf-8")
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 RAW_DIR = ROOT_DIR / "data" / "raw"

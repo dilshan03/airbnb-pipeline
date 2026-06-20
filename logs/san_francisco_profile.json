@@ -1,0 +1,585 @@
+{
+  "filename": "san_francisco",
+  "row_count": 5845,
+  "column_count": 91,
+  "duplicate_count": 0,
+  "null_rate_pct": {
+    "id": 0.0,
+    "listing_url": 0.0,
+    "scrape_id": 0.0,
+    "last_scraped": 0.0,
+    "source": 0.0,
+    "name": 0.0,
+    "description": 3.05,
+    "neighborhood_overview": 100.0,
+    "picture_url": 0.0,
+    "host_id": 0.0,
+    "host_url": 0.0,
+    "host_profile_id": 2.16,
+    "host_profile_url": 2.19,
+    "host_name": 2.16,
+    "host_since": 100.0,
+    "hosts_time_as_user_years": 2.16,
+    "hosts_time_as_user_months": 2.16,
+    "hosts_time_as_host_years": 2.16,
+    "hosts_time_as_host_months": 2.16,
+    "host_location": 23.52,
+    "host_about": 41.56,
+    "host_response_time": 100.0,
+    "host_response_rate": 100.0,
+    "host_acceptance_rate": 100.0,
+    "host_is_superhost": 2.16,
+    "host_thumbnail_url": 100.0,
+    "host_picture_url": 2.16,
+    "host_neighbourhood": 100.0,
+    "host_listings_count": 2.16,
+    "host_total_listings_count": 100.0,
+    "host_verifications": 100.0,
+    "host_has_profile_pic": 2.16,
+    "host_identity_verified": 2.16,
+    "neighbourhood": 100.0,
+    "neighbourhood_cleansed": 0.0,
+    "neighbourhood_group_cleansed": 100.0,
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "property_type": 0.0,
+    "room_type": 0.0,
+    "accommodates": 0.0,
+    "bathrooms": 11.26,
+    "bathrooms_text": 0.98,
+    "bedrooms": 2.74,
+    "beds": 12.1,
+    "amenities": 0.0,
+    "price": 0.0,
+    "price_quote_checkin_date": 0.0,
+    "price_quote_checkout_date": 0.0,
+    "price_quote_total_price": 0.0,
+    "price_quote_price_per_night": 0.0,
+    "price_quote_raw": 0.0,
+    "minimum_nights": 0.27,
+    "maximum_nights": 0.27,
+    "minimum_minimum_nights": 0.27,
+    "maximum_minimum_nights": 0.27,
+    "minimum_maximum_nights": 0.27,
+    "maximum_maximum_nights": 0.27,
+    "minimum_nights_avg_ntm": 0.0,
+    "maximum_nights_avg_ntm": 0.0,
+    "calendar_updated": 100.0,
+    "has_availability": 0.02,
+    "availability_30": 0.0,
+    "availability_60": 0.0,
+    "availability_90": 0.0,
+    "availability_365": 0.0,
+    "calendar_last_scraped": 0.0,
+    "number_of_reviews": 0.0,
+    "number_of_reviews_ltm": 0.0,
+    "number_of_reviews_l30d": 0.0,
+    "availability_eoy": 0.0,
+    "number_of_reviews_ly": 0.0,
+    "estimated_occupancy_l365d": 0.0,
+    "estimated_revenue_l365d": 0.0,
+    "first_review": 18.31,
+    "last_review": 18.31,
+    "review_scores_rating": 18.31,
+    "review_scores_accuracy": 18.31,
+    "review_scores_cleanliness": 18.31,
+    "review_scores_checkin": 18.32,
+    "review_scores_communication": 18.31,
+    "review_scores_location": 18.32,
+    "review_scores_value": 18.32,
+    "license": 33.69,
+    "instant_bookable": 100.0,
+    "calculated_host_listings_count": 0.0,
+    "calculated_host_listings_count_entire_homes": 0.0,
+    "calculated_host_listings_count_private_rooms": 0.0,
+    "calculated_host_listings_count_shared_rooms": 0.0,
+    "reviews_per_month": 0.0,
+    "is_valid": 0.0
+  },
+  "numeric_stats": {
+    "id": {
+      "min": 958,
+      "max": 1640698062922282808,
+      "mean": 6.394052203977009e+17
+    },
+    "scrape_id": {
+      "min": 20260316030519,
+      "max": 20260316030519,
+      "mean": 20260316030519.0
+    },
+    "neighborhood_overview": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_id": {
+      "min": 1169,
+      "max": 750487674,
+      "mean": 205953027.52027375
+    },
+    "host_profile_id": {
+      "min": 1.4625061892821018e+18,
+      "max": 1.637819465337473e+18,
+      "mean": 1.4678415728236675e+18
+    },
+    "host_since": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "hosts_time_as_user_years": {
+      "min": 0.0,
+      "max": 17.0,
+      "mean": 8.329952788949116
+    },
+    "hosts_time_as_user_months": {
+      "min": 0.0,
+      "max": 11.0,
+      "mean": 5.437489071516
+    },
+    "hosts_time_as_host_years": {
+      "min": 0.0,
+      "max": 15.0,
+      "mean": 6.464591711837734
+    },
+    "hosts_time_as_host_months": {
+      "min": 0.0,
+      "max": 11.0,
+      "mean": 5.322783703444658
+    },
+    "host_response_time": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_response_rate": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_acceptance_rate": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_thumbnail_url": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_neighbourhood": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_listings_count": {
+      "min": 1.0,
+      "max": 5640.0,
+      "mean": 214.4095121524742
+    },
+    "host_total_listings_count": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_verifications": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "neighbourhood": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "neighbourhood_group_cleansed": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "latitude": {
+      "min": 37.70854754835247,
+      "max": 37.81094,
+      "mean": 37.76942192630815
+    },
+    "longitude": {
+      "min": -122.51211,
+      "max": -122.36604,
+      "mean": -122.43149864412844
+    },
+    "accommodates": {
+      "min": 1,
+      "max": 16,
+      "mean": 3.3958939264328487
+    },
+    "bathrooms": {
+      "min": 0.0,
+      "max": 27.0,
+      "mean": 1.3504916136495084
+    },
+    "bedrooms": {
+      "min": 0.0,
+      "max": 23.0,
+      "mean": 1.441688654353562
+    },
+    "beds": {
+      "min": 0.0,
+      "max": 13.0,
+      "mean": 1.8306734137796807
+    },
+    "price": {
+      "min": 4.14,
+      "max": 99999.0,
+      "mean": 516.2589272882806
+    },
+    "price_quote_total_price": {
+      "min": 35.0,
+      "max": 726944.0,
+      "mean": 3250.6113532934132
+    },
+    "price_quote_price_per_night": {
+      "min": 4.14,
+      "max": 99999.0,
+      "mean": 516.2589272882806
+    },
+    "minimum_nights": {
+      "min": 1.0,
+      "max": 365.0,
+      "mean": 16.569565963287012
+    },
+    "maximum_nights": {
+      "min": 1.0,
+      "max": 2147483647.0,
+      "mean": 8474042.27448962
+    },
+    "minimum_minimum_nights": {
+      "min": 1.0,
+      "max": 365.0,
+      "mean": 16.569565963287012
+    },
+    "maximum_minimum_nights": {
+      "min": 1.0,
+      "max": 700.0,
+      "mean": 18.558243266426487
+    },
+    "minimum_maximum_nights": {
+      "min": 1.0,
+      "max": 2147483647.0,
+      "mean": 3684600.1991765313
+    },
+    "maximum_maximum_nights": {
+      "min": 1.0,
+      "max": 2147483647.0,
+      "mean": 8474042.27448962
+    },
+    "minimum_nights_avg_ntm": {
+      "min": 1.0,
+      "max": 698.2,
+      "mean": 17.675928143712575
+    },
+    "maximum_nights_avg_ntm": {
+      "min": 1.0,
+      "max": 2147483647.0,
+      "mean": 7077823.160633021
+    },
+    "calendar_updated": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "availability_30": {
+      "min": 0,
+      "max": 30,
+      "mean": 11.71103507271172
+    },
+    "availability_60": {
+      "min": 0,
+      "max": 60,
+      "mean": 29.50299401197605
+    },
+    "availability_90": {
+      "min": 0,
+      "max": 90,
+      "mean": 47.9437125748503
+    },
+    "availability_365": {
+      "min": 0,
+      "max": 365,
+      "mean": 214.9519247219846
+    },
+    "number_of_reviews": {
+      "min": 0,
+      "max": 1485,
+      "mean": 67.77365269461077
+    },
+    "number_of_reviews_ltm": {
+      "min": 0,
+      "max": 1099,
+      "mean": 11.639863130881094
+    },
+    "number_of_reviews_l30d": {
+      "min": 0,
+      "max": 88,
+      "mean": 0.8525235243798118
+    },
+    "availability_eoy": {
+      "min": 0,
+      "max": 291,
+      "mean": 175.31993156544056
+    },
+    "number_of_reviews_ly": {
+      "min": 0,
+      "max": 1078,
+      "mean": 11.229426860564585
+    },
+    "estimated_occupancy_l365d": {
+      "min": 0,
+      "max": 255,
+      "mean": 105.63079555175364
+    },
+    "estimated_revenue_l365d": {
+      "min": 0.0,
+      "max": 2750000.0,
+      "mean": 29502.24858853721
+    },
+    "review_scores_rating": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.797979057591624
+    },
+    "review_scores_accuracy": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.818184293193718
+    },
+    "review_scores_cleanliness": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.786762303664922
+    },
+    "review_scores_checkin": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.8921135316296605
+    },
+    "review_scores_communication": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.872121465968586
+    },
+    "review_scores_location": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.799323418516967
+    },
+    "review_scores_value": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.69164641809803
+    },
+    "instant_bookable": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "calculated_host_listings_count": {
+      "min": 1,
+      "max": 190,
+      "mean": 9.99589392643285
+    },
+    "calculated_host_listings_count_entire_homes": {
+      "min": 0,
+      "max": 190,
+      "mean": 5.2198460222412315
+    },
+    "calculated_host_listings_count_private_rooms": {
+      "min": 0,
+      "max": 57,
+      "mean": 3.493071000855432
+    },
+    "calculated_host_listings_count_shared_rooms": {
+      "min": 0,
+      "max": 6,
+      "mean": 0.028229255774165955
+    },
+    "reviews_per_month": {
+      "min": 0.0,
+      "max": 55.2,
+      "mean": 1.1462959794696321
+    }
+  },
+  "string_samples": {
+    "listing_url": [
+      "https://www.airbnb.com/rooms/958",
+      "https://www.airbnb.com/rooms/5858",
+      "https://www.airbnb.com/rooms/8142",
+      "https://www.airbnb.com/rooms/8339",
+      "https://www.airbnb.com/rooms/10537"
+    ],
+    "last_scraped": [
+      "2026-03-16"
+    ],
+    "source": [
+      "city scrape",
+      "previous scrape"
+    ],
+    "name": [
+      "Bright, Modern Garden Unit - 1BR/1BTH",
+      "Creative Sanctuary",
+      "*FriendlyRoom Apt. Style -UCSF/USF - San Francisco",
+      "Historic Alamo Square Victorian",
+      "Elegant & Cozy w/City views. Private room: Purple"
+    ],
+    "description": [
+      "**Please note that the house behind our backyard is under construction, and daytime noise is common. If this is a concern, please stay with us after construction is complete. **<br /><br />Our bright garden unit overlooks a lovely backyard area with fruit trees and native plants. It is an oasis in a big city. The apartment comfortably fits a couple or a small family. It is located on a cul-de-sac street that ends at lovely Duboce Park.",
+      "We live in a large Victorian house on a quiet street, nestled between the Mission district and Noe Valley. We're one block from the streetcar stop and five blocks from the subway. We have two bedrooms which have double beds and windows which cast their light upon the warm colored walls and ceilings of this haven. We have lots of spaces in the house where you can relax, read, listen to music and just cozy up. The kitchen is well stocked and we have a bountiful garden and back deck.",
+      "Nice and good public transportation.  7 minutes walk to UCSF.  15 minutes walk to USF, ST Mary Hospital <br /><br />Room rental-sunny view room/sink/Wi Fi (inner sunset / UCSF) (map)<br /><br />The place is located within walking distance to Golden Gate Park, UCSF &  USF",
+      "For creative humans who love art, space, photography, design, history..<br /><br />Beautiful natural light. Curated design and furniture. Photo location. <br /><br />Private upper-unit full-floor flat/apt in a two-unit building.<br /><br />Fashion and lifestyle brands + content creators  who chose our space for their ad campaigns and creative projects:<br /><br />Airbnb<br />Google<br />Everlane<br />Blue Bottle<br />Feather<br />Fellow<br />Freda Salvador<br />ThirdLove<br />Rothys<br />Rejuvenation<br />Banana Republic<br />Nest<br />Scandinavian Designs<br />Domino Magazine<br />Year & Day<br />Minted <br />+",
+      "Casa de Paz (House of Peace) is like staying with family!  If you want to experience San Francisco <br />like a local...instead of feeling like a tourist, this is the place for you.  <br />Here you will wake up in your own peaceful room, with a view of San Francisco."
+    ],
+    "picture_url": [
+      "https://a0.muscache.com/pictures/be1bf5ac-a955-466d-af7b-320e56dd841f.jpg",
+      "https://a0.muscache.com/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTg1OA==/original/4fee1899-500a-4f4b-bf8c-1a52ca7afa5c.jpeg",
+      "https://a0.muscache.com/pictures/hosting/Hosting-8142/original/3677e890-2ef3-4cf0-8270-4303cae39cfa.jpeg",
+      "https://a0.muscache.com/pictures/miso/Hosting-8339/original/5936b358-73fe-49af-81fc-ea7a1fc73b74.jpeg",
+      "https://a0.muscache.com/pictures/airflow/Hosting-10537/original/32b369ec-6556-4948-ac2e-1a85ce61556b.jpg"
+    ],
+    "host_url": [
+      "https://www.airbnb.com/users/show/1169",
+      "https://www.airbnb.com/users/show/8904",
+      "https://www.airbnb.com/users/show/21994",
+      "https://www.airbnb.com/users/show/24215",
+      "https://www.airbnb.com/users/show/36752"
+    ],
+    "host_profile_url": [
+      "https://www.airbnb.com/users/profile/1462506189282101689",
+      "https://www.airbnb.com/users/profile/1462506623299518225",
+      "https://www.airbnb.com/users/profile/1462506956810615042",
+      "https://www.airbnb.com/users/profile/1462506994551169471",
+      "https://www.airbnb.com/users/profile/1462507288958203289"
+    ],
+    "host_name": [
+      "Holly",
+      "Philip Jonathon",
+      "Aaron",
+      "Rosy",
+      "Teresa"
+    ],
+    "host_location": [
+      "San Francisco, CA",
+      "Moraga, CA",
+      "Austin, TX",
+      "United States",
+      "Berlin, Germany"
+    ],
+    "host_about": [
+      "We are a family of four that live upstairs.  We have a large dog who occasionally can be seen in the backyard. We have lived in our home since 2005 and have been renting our apartment since 2008.",
+      "Philip: English transplant to the Bay Area and half Spanish adoptive son of hardworking Yorkshire folk. I'm married to the one, engaged to my work and in love with exploring the merging of design art and craft.\r\n\r\nTania: SF raised with a NY energy and an Armenian background that I am proud of. I'm an international journalist, interviewing artists and producing for radio and print. I speak several languages and love to meet people. Found my husband in a cafe in NY and came back to SF to live near my Grandma. Oh, and I love plants.",
+      "7 minutes walk to UCSF hospital & school campus.  15 minutes walk to USF, St. Mary Hospital.  5 minute walk to Golden Gate Park/Whole food/ regular food store and many different style restaurants & stores in stylish town.\n\nTwo ways public muni transportation in front the building to sunset areas/downtown/Golden Gate Bridge/Cal Train station/Airport.  Other 5 minutes walking distance bus stops to downtown and different areas.\n\nMedium side room with one bed only . Extra large size of room with  one single or one full size bed only. The price just a little bit different but have more space. \n\nPlease email your job offer letter and current official picture ID / acceptable credit report and score and financial information after you make reservation.  \n\nAdditional adult person  will be charged per night & One time standard cleaning fee $50  and  security deposit will be collected upon your arrival.   \n\nWi-Fi signal in common areas.   Large eat in kitchen.  Sunny sitting room.\n\nNot pet/Not for any kinds of smoking/no party.  Quiet hours 8pm-9am\n\nSimple cooking only, We have  cooktop and mini toaster oven with timer.   Refrigerator shared storage is limited and Whole Food supermarket in 7 minutes' walking distance.  Coin operated washer and dryer machine in the building.  No pet, No party, No smoking, not for any kinds of smoking, no candle, no tourist, no transient.",
+      "I'm an Interior Stylist living in SF.",
+      "From San Francisco"
+    ],
+    "host_is_superhost": [
+      "t",
+      "f"
+    ],
+    "host_picture_url": [
+      "https://a0.muscache.com/im/pictures/user/efdad96a-3efc-4bc2-bdc9-f69740a5a818.jpg?aki_policy=profile_x_medium",
+      "https://a0.muscache.com/im/users/8904/profile_pic/1283840786/original.jpg?aki_policy=profile_x_medium",
+      "https://a0.muscache.com/im/users/21994/profile_pic/1428380894/original.jpg?aki_policy=profile_x_medium",
+      "https://a0.muscache.com/im/pictures/user/3e1a76fa-6657-4ae2-8b4e-3fce94b93eed.jpg?aki_policy=profile_x_medium",
+      "https://a0.muscache.com/im/users/36752/profile_pic/1259119407/original.jpg?aki_policy=profile_x_medium"
+    ],
+    "host_has_profile_pic": [
+      "t",
+      "f"
+    ],
+    "host_identity_verified": [
+      "t",
+      "f"
+    ],
+    "neighbourhood_cleansed": [
+      "Western Addition",
+      "Bernal Heights",
+      "Haight Ashbury",
+      "Bayview",
+      "Castro/Upper Market"
+    ],
+    "property_type": [
+      "Entire serviced apartment",
+      "Entire rental unit",
+      "Private room in rental unit",
+      "Entire condo",
+      "Private room"
+    ],
+    "room_type": [
+      "Entire home",
+      "Private room",
+      "Shared room",
+      "Hotel room"
+    ],
+    "bathrooms_text": [
+      "1 bath",
+      "2 baths",
+      "4 shared baths",
+      "1.5 baths",
+      "1.5 shared baths"
+    ],
+    "amenities": [
+      "[\"TEA TREE TRIPLE TREAT\\u2122 INVIGORATING SHAMPOO  shampoo\", \"Free dryer \\u2013 In building\", \"Keypad\", \"Bathtub\", \"Extra pillows and blankets\", \"Board games\", \"Outdoor dining area\", \"Sonos Era Bluetooth sound system\", \"Wifi\", \"Shower gel\", \"Heating\", \"Hot water\", \"Refrigerator\", \"Bed linens\", \"Crib\", \"Microwave\", \"Room-darkening shades\", \"Free washer \\u2013 In building\", \"Dishes and silverware\", \"Luggage dropoff allowed\", \"Private entrance\", \"Outdoor furniture\", \"Essentials\", \"Pack \\u2019n play/Travel crib\", \"Coffee\", \"TV with standard cable\", \"BBQ grill\", \"Drying rack for clothing\", \"Shared backyard \\u2013 Fully fenced\", \"Cooking basics\", \"Hot water kettle\", \"First aid kit\", \"Smoke alarm\", \"Children\\u2019s books and toys for ages 0-2 years old, 2-5 years old, and 5-10 years old\", \"Freezer\", \"Toaster\", \"Clothing storage: closet and dresser\", \"Books and reading material\", \"Dining table\", \"TEA TREE TRIPLE TREAT\\u2122  conditioner\", \"Self check-in\", \"Hangers\", \"Cleaning available during stay\", \"Iron\", \"Hair dryer\", \"Wine glasses\", \"Everyone Soap body soap\", \"Carbon monoxide alarm\", \"Kitchenette\", \"Children\\u2019s dinnerware\", \"Coffee maker\", \"Cleaning products\", \"Shared patio or balcony\"]",
+      "[\"Washer\", \"Hangers\", \"Dryer\", \"Shampoo\", \"Patio or balcony\", \"Iron\", \"Private entrance\", \"Essentials\", \"Hair dryer\", \"Kitchen\", \"Carbon monoxide alarm\", \"Smoke alarm\", \"First aid kit\", \"Wifi\", \"Heating\", \"Fire extinguisher\", \"Refrigerator\"]",
+      "[\"Lock on bedroom door\", \"Wifi\", \"Heating\", \"Hot water\", \"Refrigerator\", \"Dishes and silverware\", \"Exterior security cameras on property\", \"Private entrance\", \"Long term stays allowed\", \"Fire extinguisher\", \"Host greets you\", \"Paid dryer \\u2013 In building\", \"Kitchen\", \"Smoke alarm\", \"Dining table\", \"Free street parking\", \"Paid washer \\u2013 In building\", \"Laundromat nearby\", \"Hangers\", \"Carbon monoxide alarm\", \"Dedicated workspace\"]",
+      "[\"Bathtub\", \"Oven\", \"Extra pillows and blankets\", \"Wifi\", \"Heating\", \"Hot water\", \"Refrigerator\", \"Body soap\", \"Dishwasher\", \"Bed linens\", \"Microwave\", \"Room-darkening shades\", \"Dishes and silverware\", \"Exterior security cameras on property\", \"Essentials\", \"Long term stays allowed\", \"Fire extinguisher\", \"Rice maker\", \"Cooking basics\", \"Kitchen\", \"Hot water kettle\", \"First aid kit\", \"Smoke alarm\", \"Toaster\", \"Books and reading material\", \"Dining table\", \"Free street parking\", \"Laundromat nearby\", \"Hangers\", \"Stove\", \"Iron\", \"Hair dryer\", \"Wine glasses\", \"Carbon monoxide alarm\", \"Mini fridge\", \"Dedicated workspace\", \"Coffee maker\", \"Cleaning products\"]",
+      "[\"Free washer \\u2013 In unit\", \"Extra pillows and blankets\", \"Board games\", \"Indoor fireplace: gas\", \"Blender\", \"Wifi\", \"Stainless steel gas stove\", \"Shower gel\", \"Stainless steel oven\", \"Hot water\", \"Refrigerator\", \"Body soap\", \"Dishwasher\", \"Bed linens\", \"Crib\", \"Microwave\", \"Free dryer \\u2013 In unit\", \"Shampoo\", \"Dishes and silverware\", \"Shared gym in building\", \"Luggage dropoff allowed\", \"Central heating\", \"Coffee maker: drip coffee maker\", \"Essentials\", \"Pack \\u2019n play/Travel crib\", \"Baking sheet\", \"Coffee\", \"Outdoor furniture\", \"Long term stays allowed\", \"Waterfront\", \"Barbecue utensils\", \"Pets allowed\", \"Fire extinguisher\", \"Smart lock\", \"Bay view\", \"Cooking basics\", \"Shared BBQ grill: charcoal\", \"City skyline view\", \"Kitchen\", \"First aid kit\", \"Smoke alarm\", \"Hot water kettle\", \"Freezer\", \"Toaster\", \"Books and reading material\", \"Dining table\", \"Free street parking\", \"Self check-in\", \"Hangers\", \"Iron\", \"Exercise equipment: free weights, treadmill, yoga mat\", \"Hair dryer\", \"Wine glasses\", \"Carbon monoxide alarm\", \"Conditioner\", \"47 inch HDTV with Amazon Prime Video, Apple TV, Netflix, premium cable\", \"Cleaning products\", \"Shared patio or balcony\"]"
+    ],
+    "price_quote_checkin_date": [
+      "2026-05-08",
+      "2026-04-08",
+      "2026-04-03",
+      "2026-03-17",
+      "2026-03-16"
+    ],
+    "price_quote_checkout_date": [
+      "2026-05-10",
+      "2026-05-08",
+      "2026-05-05",
+      "2026-03-26",
+      "2026-03-18"
+    ],
+    "price_quote_raw": [
+      "{\"quote\": {\"taxes\": null, \"currency\": \"USD\", \"date_match\": null, \"service_fee\": null, \"total_price\": \"622\", \"cleaning_fee\": null, \"is_available\": true, \"discount_amount\": null, \"price_per_night\": \"311\", \"nightly_subtotal\": \"621.94\", \"discounted_subtotal\": \"621.94\", \"raw_price_line_items\": [{\"amount\": \"621.94\", \"item_type\": \"nightly_subtotal\", \"description\": \"2 nights x $310.97\", \"price_string\": \"$621.94\"}, {\"amount\": \"621.94\", \"item_type\": \"discounted_subtotal\", \"description\": \"Price after discount\", \"price_string\": \"$621.94\"}], \"returned_checkin_date\": null, \"requested_checkin_date\": \"2026-05-08\", \"returned_checkout_date\": null, \"requested_checkout_date\": \"2026-05-10\"}}",
+      "{\"quote\": {\"taxes\": null, \"currency\": \"USD\", \"date_match\": null, \"service_fee\": null, \"total_price\": \"10067\", \"cleaning_fee\": null, \"is_available\": true, \"discount_amount\": null, \"price_per_night\": \"335.5666666666666666666666667\", \"nightly_subtotal\": null, \"discounted_subtotal\": \"10066.21\", \"raw_price_line_items\": [{\"amount\": \"10066.21\", \"item_type\": \"other\", \"description\": \"Average monthly price\", \"price_string\": \"$10,066.21\"}, {\"amount\": \"10066.21\", \"item_type\": \"discounted_subtotal\", \"description\": \"Price after discount\", \"price_string\": \"$10,066.21\"}], \"returned_checkin_date\": null, \"requested_checkin_date\": \"2026-04-08\", \"returned_checkout_date\": null, \"requested_checkout_date\": \"2026-05-08\"}}",
+      "{\"quote\": {\"taxes\": null, \"currency\": \"USD\", \"date_match\": null, \"service_fee\": null, \"total_price\": \"1938\", \"cleaning_fee\": null, \"is_available\": true, \"discount_amount\": \"33.61\", \"price_per_night\": \"60.5625\", \"nightly_subtotal\": null, \"discounted_subtotal\": \"1937.58\", \"raw_price_line_items\": [{\"amount\": \"1971.19\", \"item_type\": \"other\", \"description\": \"Average monthly price\", \"price_string\": \"$1,971.19\"}, {\"amount\": \"-33.61\", \"item_type\": \"discount_amount\", \"description\": \"Monthly stay discount\", \"price_string\": \"-$33.61\"}, {\"amount\": \"1937.58\", \"item_type\": \"discounted_subtotal\", \"description\": \"Price after discount\", \"price_string\": \"$1,937.58\"}], \"returned_checkin_date\": null, \"requested_checkin_date\": \"2026-04-03\", \"returned_checkout_date\": null, \"requested_checkout_date\": \"2026-05-05\"}}",
+      "{\"quote\": {\"taxes\": null, \"currency\": null, \"date_match\": null, \"service_fee\": null, \"total_price\": \"5630.00\", \"cleaning_fee\": null, \"is_available\": true, \"discount_amount\": \"526.50\", \"price_per_night\": \"625.5555555555555555555555556\", \"nightly_subtotal\": \"6156.50\", \"discounted_subtotal\": \"5630.00\", \"raw_price_line_items\": [{\"amount\": \"6156.50\", \"item_type\": \"nightly_subtotal\", \"description\": \"9 nights x $684.06\", \"price_string\": \"$6,156.50\"}, {\"amount\": \"-526.50\", \"item_type\": \"discount_amount\", \"description\": \"Weekly stay discount\", \"price_string\": \"-$526.50\"}, {\"amount\": \"5630.00\", \"item_type\": \"discounted_subtotal\", \"description\": \"Price after discount\", \"price_string\": \"$5,630.00\"}], \"returned_checkin_date\": null, \"requested_checkin_date\": \"2026-03-17\", \"returned_checkout_date\": null, \"requested_checkout_date\": \"2026-03-26\"}}",
+      "{\"quote\": {\"taxes\": null, \"currency\": \"USD\", \"date_match\": null, \"service_fee\": null, \"total_price\": \"339\", \"cleaning_fee\": null, \"is_available\": true, \"discount_amount\": null, \"price_per_night\": \"169.5\", \"nightly_subtotal\": \"338.93\", \"discounted_subtotal\": \"338.93\", \"raw_price_line_items\": [{\"amount\": \"338.93\", \"item_type\": \"nightly_subtotal\", \"description\": \"2 nights x $169.47\", \"price_string\": \"$338.93\"}, {\"amount\": \"338.93\", \"item_type\": \"discounted_subtotal\", \"description\": \"Price after discount\", \"price_string\": \"$338.93\"}], \"returned_checkin_date\": null, \"requested_checkin_date\": \"2026-03-16\", \"returned_checkout_date\": null, \"requested_checkout_date\": \"2026-03-18\"}}"
+    ],
+    "has_availability": [
+      "t",
+      "f"
+    ],
+    "calendar_last_scraped": [
+      "2026-03-16"
+    ],
+    "first_review": [
+      "2009-07-23",
+      "2009-05-03",
+      "2014-09-08",
+      "2010-04-14",
+      "2010-02-21"
+    ],
+    "last_review": [
+      "2026-02-25",
+      "2017-08-06",
+      "2023-07-30",
+      "2019-06-28",
+      "2026-03-05"
+    ],
+    "license": [
+      "STR-0006854",
+      "STR-0000264",
+      "2022-011003STR",
+      "STR-0000057",
+      "STR-0000094"
+    ]
+  }
+}

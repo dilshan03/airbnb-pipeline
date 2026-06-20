@@ -1,0 +1,24 @@
+{
+  "run_start": "2026-06-20T12:45:27.326858",
+  "run_end": "2026-06-20T12:45:39.760883",
+  "duration_seconds": 12.43,
+  "success_count": 1,
+  "failure_count": 1,
+  "cities": [
+    {
+      "city": "Albany",
+      "start_time": "2026-06-20T12:45:27.351663",
+      "status": "success",
+      "end_time": "2026-06-20T12:45:29.445092",
+      "duration_seconds": 2.09
+    },
+    {
+      "city": "Amsterdam",
+      "start_time": "2026-06-20T12:45:29.446718",
+      "status": "failed",
+      "error": "Conversion Error: Could not convert string 'Romantic, stylish B&B houseboat in canal district' to INT32 when casting from source column name",
+      "end_time": "2026-06-20T12:45:39.744017",
+      "duration_seconds": 10.3
+    }
+  ]
+}

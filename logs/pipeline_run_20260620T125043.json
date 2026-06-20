@@ -1,0 +1,24 @@
+{
+  "run_start": "2026-06-20T12:50:43.839991",
+  "run_end": "2026-06-20T12:51:02.500974",
+  "duration_seconds": 18.66,
+  "success_count": 1,
+  "failure_count": 1,
+  "cities": [
+    {
+      "city": "Albany",
+      "start_time": "2026-06-20T12:50:43.859972",
+      "status": "failed",
+      "error": "'charmap' codec can't encode character '\\u2714' in position 536: character maps to <undefined>",
+      "end_time": "2026-06-20T12:50:45.368618",
+      "duration_seconds": 1.51
+    },
+    {
+      "city": "Amsterdam",
+      "start_time": "2026-06-20T12:50:45.368618",
+      "status": "success",
+      "end_time": "2026-06-20T12:51:02.469564",
+      "duration_seconds": 17.1
+    }
+  ]
+}

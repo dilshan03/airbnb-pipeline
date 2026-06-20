@@ -1,0 +1,543 @@
+{
+  "filename": "Albany_raw",
+  "row_count": 453,
+  "column_count": 85,
+  "duplicate_count": 0,
+  "null_rate_pct": {
+    "id": 0.0,
+    "listing_url": 0.0,
+    "scrape_id": 0.0,
+    "last_scraped": 0.0,
+    "source": 0.0,
+    "name": 0.0,
+    "description": 2.43,
+    "neighborhood_overview": 100.0,
+    "picture_url": 0.0,
+    "host_id": 0.0,
+    "host_url": 0.0,
+    "host_profile_id": 0.0,
+    "host_profile_url": 0.0,
+    "host_name": 0.0,
+    "host_since": 100.0,
+    "hosts_time_as_user_years": 0.0,
+    "hosts_time_as_user_months": 0.0,
+    "hosts_time_as_host_years": 0.0,
+    "hosts_time_as_host_months": 0.0,
+    "host_location": 26.49,
+    "host_about": 43.93,
+    "host_response_time": 100.0,
+    "host_response_rate": 100.0,
+    "host_acceptance_rate": 100.0,
+    "host_is_superhost": 0.0,
+    "host_thumbnail_url": 100.0,
+    "host_picture_url": 0.0,
+    "host_neighbourhood": 100.0,
+    "host_listings_count": 0.0,
+    "host_total_listings_count": 100.0,
+    "host_verifications": 100.0,
+    "host_has_profile_pic": 0.0,
+    "host_identity_verified": 0.0,
+    "neighbourhood": 100.0,
+    "neighbourhood_cleansed": 0.0,
+    "neighbourhood_group_cleansed": 100.0,
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "property_type": 0.0,
+    "room_type": 0.0,
+    "accommodates": 0.0,
+    "bathrooms": 3.53,
+    "bathrooms_text": 0.0,
+    "bedrooms": 0.66,
+    "beds": 3.53,
+    "amenities": 0.0,
+    "price": 100.0,
+    "minimum_nights": 0.0,
+    "maximum_nights": 0.0,
+    "minimum_minimum_nights": 0.0,
+    "maximum_minimum_nights": 0.0,
+    "minimum_maximum_nights": 0.0,
+    "maximum_maximum_nights": 0.0,
+    "minimum_nights_avg_ntm": 0.0,
+    "maximum_nights_avg_ntm": 0.0,
+    "calendar_updated": 100.0,
+    "has_availability": 1.1,
+    "availability_30": 0.0,
+    "availability_60": 0.0,
+    "availability_90": 0.0,
+    "availability_365": 0.0,
+    "calendar_last_scraped": 0.0,
+    "number_of_reviews": 0.0,
+    "number_of_reviews_ltm": 0.0,
+    "number_of_reviews_l30d": 0.0,
+    "availability_eoy": 0.0,
+    "number_of_reviews_ly": 0.0,
+    "estimated_occupancy_l365d": 0.0,
+    "estimated_revenue_l365d": 100.0,
+    "first_review": 12.8,
+    "last_review": 12.8,
+    "review_scores_rating": 12.8,
+    "review_scores_accuracy": 12.8,
+    "review_scores_cleanliness": 12.8,
+    "review_scores_checkin": 12.8,
+    "review_scores_communication": 12.8,
+    "review_scores_location": 12.8,
+    "review_scores_value": 12.8,
+    "license": 100.0,
+    "instant_bookable": 100.0,
+    "calculated_host_listings_count": 0.0,
+    "calculated_host_listings_count_entire_homes": 0.0,
+    "calculated_host_listings_count_private_rooms": 0.0,
+    "calculated_host_listings_count_shared_rooms": 0.0,
+    "reviews_per_month": 12.8
+  },
+  "numeric_stats": {
+    "id": {
+      "min": 2992450,
+      "max": 1611095556132252611,
+      "mean": 8.981917024998605e+17
+    },
+    "scrape_id": {
+      "min": 20260215064701,
+      "max": 20260215064701,
+      "mean": 20260215064700.996
+    },
+    "neighborhood_overview": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_id": {
+      "min": 649068,
+      "max": 739585626,
+      "mean": 250530533.58719647
+    },
+    "host_profile_id": {
+      "min": 1462517583121314645,
+      "max": 1601567689964826000,
+      "mean": 1.468835343049469e+18
+    },
+    "host_since": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "hosts_time_as_user_years": {
+      "min": 0,
+      "max": 14,
+      "mean": 6.741721854304636
+    },
+    "hosts_time_as_user_months": {
+      "min": 0,
+      "max": 11,
+      "mean": 5.5386313465783665
+    },
+    "hosts_time_as_host_years": {
+      "min": 0,
+      "max": 13,
+      "mean": 4.139072847682119
+    },
+    "hosts_time_as_host_months": {
+      "min": 0,
+      "max": 11,
+      "mean": 5.746136865342163
+    },
+    "host_response_time": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_response_rate": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_acceptance_rate": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_thumbnail_url": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_neighbourhood": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_listings_count": {
+      "min": 1,
+      "max": 1318,
+      "mean": 32.200883002207505
+    },
+    "host_total_listings_count": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "host_verifications": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "neighbourhood": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "neighbourhood_group_cleansed": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "latitude": {
+      "min": 42.63066,
+      "max": 42.7149,
+      "mean": 42.65923701457593
+    },
+    "longitude": {
+      "min": -73.87649,
+      "max": -73.73825,
+      "mean": -73.77669888588275
+    },
+    "accommodates": {
+      "min": 1,
+      "max": 16,
+      "mean": 3.4392935982339954
+    },
+    "bathrooms": {
+      "min": 0.0,
+      "max": 7.0,
+      "mean": 1.231121281464531
+    },
+    "bedrooms": {
+      "min": 0.0,
+      "max": 9.0,
+      "mean": 1.5977777777777777
+    },
+    "beds": {
+      "min": 0.0,
+      "max": 10.0,
+      "mean": 1.8215102974828374
+    },
+    "price": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "minimum_nights": {
+      "min": 1,
+      "max": 180,
+      "mean": 5.82560706401766
+    },
+    "maximum_nights": {
+      "min": 3,
+      "max": 1125,
+      "mean": 631.8233995584989
+    },
+    "minimum_minimum_nights": {
+      "min": 1,
+      "max": 180,
+      "mean": 5.82560706401766
+    },
+    "maximum_minimum_nights": {
+      "min": 1,
+      "max": 365,
+      "mean": 8.439293598233995
+    },
+    "minimum_maximum_nights": {
+      "min": 1,
+      "max": 1125,
+      "mean": 621.9646799116998
+    },
+    "maximum_maximum_nights": {
+      "min": 3,
+      "max": 1125,
+      "mean": 631.8233995584989
+    },
+    "minimum_nights_avg_ntm": {
+      "min": 1.0,
+      "max": 221.8,
+      "mean": 6.810154525386314
+    },
+    "maximum_nights_avg_ntm": {
+      "min": 3.0,
+      "max": 1125.0,
+      "mean": 625.2843267108168
+    },
+    "calendar_updated": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "availability_30": {
+      "min": 0,
+      "max": 30,
+      "mean": 18.15011037527594
+    },
+    "availability_60": {
+      "min": 0,
+      "max": 60,
+      "mean": 40.211920529801326
+    },
+    "availability_90": {
+      "min": 0,
+      "max": 90,
+      "mean": 63.326710816777044
+    },
+    "availability_365": {
+      "min": 0,
+      "max": 365,
+      "mean": 258.17218543046357
+    },
+    "number_of_reviews": {
+      "min": 0,
+      "max": 972,
+      "mean": 61.571743929359826
+    },
+    "number_of_reviews_ltm": {
+      "min": 0,
+      "max": 127,
+      "mean": 13.86534216335541
+    },
+    "number_of_reviews_l30d": {
+      "min": 0,
+      "max": 9,
+      "mean": 0.7041942604856513
+    },
+    "availability_eoy": {
+      "min": 0,
+      "max": 320,
+      "mean": 231.08609271523179
+    },
+    "number_of_reviews_ly": {
+      "min": 0,
+      "max": 126,
+      "mean": 13.973509933774835
+    },
+    "estimated_occupancy_l365d": {
+      "min": 0,
+      "max": 255,
+      "mean": 79.62030905077263
+    },
+    "estimated_revenue_l365d": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "review_scores_rating": {
+      "min": 2.5,
+      "max": 5.0,
+      "mean": 4.733291139240507
+    },
+    "review_scores_accuracy": {
+      "min": 2.33,
+      "max": 5.0,
+      "mean": 4.771139240506329
+    },
+    "review_scores_cleanliness": {
+      "min": 2.33,
+      "max": 5.0,
+      "mean": 4.749670886075949
+    },
+    "review_scores_checkin": {
+      "min": 2.5,
+      "max": 5.0,
+      "mean": 4.829341772151899
+    },
+    "review_scores_communication": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.838759493670886
+    },
+    "review_scores_location": {
+      "min": 2.0,
+      "max": 5.0,
+      "mean": 4.633924050632912
+    },
+    "review_scores_value": {
+      "min": 2.5,
+      "max": 5.0,
+      "mean": 4.692835443037975
+    },
+    "license": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "instant_bookable": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "calculated_host_listings_count": {
+      "min": 1,
+      "max": 30,
+      "mean": 7.662251655629139
+    },
+    "calculated_host_listings_count_entire_homes": {
+      "min": 0,
+      "max": 29,
+      "mean": 5.743929359823399
+    },
+    "calculated_host_listings_count_private_rooms": {
+      "min": 0,
+      "max": 13,
+      "mean": 1.9183222958057395
+    },
+    "calculated_host_listings_count_shared_rooms": {
+      "min": 0,
+      "max": 0,
+      "mean": 0.0
+    },
+    "reviews_per_month": {
+      "min": 0.03,
+      "max": 10.44,
+      "mean": 1.8406835443037977
+    }
+  },
+  "string_samples": {
+    "listing_url": [
+      "https://www.airbnb.com/rooms/2992450",
+      "https://www.airbnb.com/rooms/3820211",
+      "https://www.airbnb.com/rooms/5651579",
+      "https://www.airbnb.com/rooms/6015313",
+      "https://www.airbnb.com/rooms/6623339"
+    ],
+    "last_scraped": [
+      "2026-02-15"
+    ],
+    "source": [
+      "city scrape",
+      "previous scrape"
+    ],
+    "name": [
+      "Luxury 2 bedroom apartment",
+      "Restored Precinct in Center Sq. w/Parking",
+      "Large studio apt  by Capital Center & ESP@",
+      "Comfortable 3BR Home w/ Central Air | Pine Hills",
+      "Center Sq. Loft in Converted Precinct w/ Parking"
+    ],
+    "description": [
+      "The apartment is located in a quiet neighborhood . Fully furnished. Linens and towels are provided. It's two blocks away from downtown Albany, and the Palace theater.",
+      "Step into the charming and comfy 1BR/1BA apartment in the heart of Albany, NY. It promises a relaxing retreat bordering picturesque Washington Park and funky Lark Street while being within walking distance to vibrant downtown dining, shops, and exciting attractions.<br /><br />The lovely design and prime location will leave you in awe.<br /><br />\u2714 Comfy Queen Bedroom <br />\u2714 On-Demand Hot & Cold Filtered Water <br />\u2714 Open Design Living <br />\u2714 Fully Equipped Kitchen<br />\u2714 Smart TV & High-Speed Wi-Fi <br />\u2714 Free Parking<br /><br />See more below!",
+      "Spacious studio with hardwood floors, fully equipped kitchen, clean and bright. Large modern bath .  Full Cable TV and WiFi. Walking distance to the new Renaissance Hotel.<br />Walk to everything downtown! The Empire Plaza  and the Egg are  across the street.You can't get any closer, to the MVP Arena,  as well as Restaurants, bars, churches. Walk to  Capital and the new Capital Convention Center. Laundry facilities in the apartment",
+      "Updated 3-bedroom home in Pine Hills near hospitals, bars, and UAlbany\u20142 full baths, central air, full kitchen, dining room + den with futon.",
+      "Step into the charming and comfy 1BR/1BA apartment in the heart of Albany, NY. It promises a relaxing retreat bordering picturesque Washington Park and funky Lark Street while being within walking distance to the vibrant downtown, which offers easy access to restaurants, shops, and exciting attractions.<br /><br />The lovely design and the prime location will leave you in awe.<br /><br />\u2714 Comfy Queen Bedroom<br />\u2714 Open Design Living<br />\u2714 Fully Equipped Kitchen<br />\u2714 Smart TV<br />\u2714 Wi-Fi<br />\u2714 Free Parking<br /><br />See more below!"
+    ],
+    "picture_url": [
+      "https://a0.muscache.com/pictures/44627226/0e72c75c_original.jpg",
+      "https://a0.muscache.com/pictures/prohost-api/Hosting-3820211/original/f4d15ef2-fac4-436c-a2e3-df89ddc23d54.png",
+      "https://a0.muscache.com/pictures/b3fc42f3-6e5e-4704-9d0f-8ceee5d32046.jpg",
+      "https://a0.muscache.com/pictures/hosting/Hosting-6015313/original/4a623ee6-be45-4339-ae75-4f0dab275f72.jpeg",
+      "https://a0.muscache.com/pictures/prohost-api/Hosting-6623339/original/ea5cad10-dab6-4b89-8279-878648a4124e.jpeg"
+    ],
+    "host_url": [
+      "https://www.airbnb.com/users/show/4621559",
+      "https://www.airbnb.com/users/show/19648678",
+      "https://www.airbnb.com/users/show/29288920",
+      "https://www.airbnb.com/users/show/31223807",
+      "https://www.airbnb.com/users/show/17766924"
+    ],
+    "host_profile_url": [
+      "https://www.airbnb.com/users/profile/1462661762635155041",
+      "https://www.airbnb.com/users/profile/1463087024016718788",
+      "https://www.airbnb.com/users/profile/1465431505328745177",
+      "https://www.airbnb.com/users/profile/1465459398999270556",
+      "https://www.airbnb.com/users/profile/1463028469002798404"
+    ],
+    "host_name": [
+      "Kenneth",
+      "Ming",
+      "Gregg",
+      "Ryan",
+      "Sugey"
+    ],
+    "host_location": [
+      "New York, NY",
+      "Albany, NY",
+      "Stamford, NY",
+      "Gloversville, NY",
+      "Glenville, NY"
+    ],
+    "host_about": [
+      "I am a real down to earth & cool person.",
+      "Hello! I\u2019m a proud resident of Albany, NY, where i both live and work With a background in real estate and management, I bring years of expertise to hosting and caring for my own property here in Albany. In addition to managing vacation rentals, I also own a Japanese restaurant, so hospitality and guest satisfaction are at the heart of everything I do.\n\nI look forward to welcoming you to Albany and sharing the best of the city with you!",
+      "I am an Albany native .I have lived in Ireland and had a B & B in Tramore County Waterford back in the early nineties. While doing so we met a lot of wonderful people. I have been in the real estate business for over 30 years . I believe in keeping the mind and body fit. I am easy going and love a good laugh.",
+      "I'm Irish living in Albany NY.  I have 3 grown up kids.  I have 2 chihuauas    I am visiting Toronto to meet my sister and nephew who are visiting from Ireland.  Don't smoke or drink just love my dogs!",
+      "I was born in Poland but grew up in NY and now i'm back in NY after grad school in Europe.  I love sailing, flying gliders, hiking, hammocks, cycling, photography, travel, minimalism, tennis,  podcasts, biohacking and my KJV.  I started traveling airbnb during my time in Europe and now I\u2019m a host in NY! \nListings:\nairbnb.com/h/38eden\nairbnb.com/h/55eden\nairbnb.com/h/18home\nairbnb.com/h/24miller\nairbnb.com/h/24eden\nairbnb.com/h/433western\nwww.airbnb.com/p/peter"
+    ],
+    "host_is_superhost": [
+      "f",
+      "t"
+    ],
+    "host_picture_url": [
+      "https://a0.muscache.com/im/users/4621559/profile_pic/1363081467/original.jpg?aki_policy=profile_x_medium",
+      "https://a0.muscache.com/im/pictures/user/User/original/8ca5d0ce-dbd2-4cef-9a11-086c758cd7ba.jpeg?aki_policy=profile_x_medium",
+      "https://a0.muscache.com/im/users/29288920/profile_pic/1426286865/original.jpg?aki_policy=profile_x_medium",
+      "https://a0.muscache.com/im/pictures/user/User/original/a90b8b93-3824-4fa1-9611-254750655b54.jpeg?aki_policy=profile_x_medium",
+      "https://a0.muscache.com/im/pictures/user/ae311d04-cbca-423a-aa92-8a4b3d6997de.jpg?aki_policy=profile_x_medium"
+    ],
+    "host_has_profile_pic": [
+      "t",
+      "f"
+    ],
+    "host_identity_verified": [
+      "t",
+      "f"
+    ],
+    "neighbourhood_cleansed": [
+      "THIRD WARD",
+      "SIXTH WARD",
+      "SECOND WARD",
+      "THIRTEENTH WARD",
+      "FOURTEENTH WARD"
+    ],
+    "property_type": [
+      "Entire rental unit",
+      "Entire home",
+      "Private room in rental unit",
+      "Private room in guest suite",
+      "Entire place"
+    ],
+    "room_type": [
+      "Entire home/apt",
+      "Private room"
+    ],
+    "bathrooms_text": [
+      "1 bath",
+      "2 baths",
+      "1 private bath",
+      "1.5 shared baths",
+      "1 shared bath"
+    ],
+    "amenities": [
+      "[\"Smoke alarm\", \"Kitchen\", \"Air conditioning\", \"Essentials\", \"TV with standard cable\", \"Wifi\", \"Heating\", \"Carbon monoxide alarm\"]",
+      "[\"Smoke alarm\", \"Kitchen\", \"Dishwasher\", \"Wifi\", \"Shower gel\", \"Coffee maker\", \"Hair dryer\", \"Body soap\", \"Carbon monoxide alarm\", \"Cooking basics\", \"Shampoo\", \"Iron\", \"Central air conditioning\", \"Dedicated workspace\", \"Microwave\", \"Dining table\", \"Heating\", \"Smart lock\", \"Pets allowed\", \"HDTV with standard cable, Apple TV\", \"Oven\", \"Noise decibel monitors on property\", \"Essentials\", \"Conditioner\", \"Free washer \\u2013 In unit\", \"Dishes and silverware\", \"Free parking on premises\", \"Hangers\", \"Refrigerator\", \"Self check-in\", \"Freezer\", \"Free dryer \\u2013 In unit\", \"Stove\"]",
+      "[\"Smoke alarm\", \"Kitchen\", \"Wifi\", \"Shower gel\", \"Hot water\", \"Coffee maker\", \"Private entrance\", \"Hair dryer\", \"TV\", \"Carbon monoxide alarm\", \"Bed linens\", \"Luggage dropoff allowed\", \"Cooking basics\", \"Ceiling fan\", \"Shampoo\", \"Iron\", \"Hot water kettle\", \"Wine glasses\", \"Baking sheet\", \"Dedicated workspace\", \"Microwave\", \"Dining table\", \"Heating\", \"Long term stays allowed\", \"Oven\", \"Backyard\", \"Air conditioning\", \"Toaster\", \"Essentials\", \"Free washer \\u2013 In unit\", \"Dishes and silverware\", \"Free parking on premises\", \"Hangers\", \"Refrigerator\", \"Self check-in\", \"Free street parking\", \"Lockbox\", \"Fire extinguisher\", \"Free dryer \\u2013 In unit\", \"Stove\"]",
+      "[\"Smoke alarm\", \"Kitchen\", \"Gas stove\", \"Wifi\", \"Shower gel\", \"Hot water\", \"Coffee maker\", \"Hair dryer\", \"Body soap\", \"TV\", \"Carbon monoxide alarm\", \"Bed linens\", \"Cooking basics\", \"Baking sheet\", \"Shampoo\", \"Room-darkening shades\", \"Wine glasses\", \"Free parking garage on premises\", \"Clothing storage\", \"Heating\", \"Stainless steel oven\", \"Washer\", \"EV charger - level 2\", \"Backyard\", \"Air conditioning\", \"Conditioner\", \"Self check-in\", \"Refrigerator\", \"Freezer\", \"Free street parking\", \"Fire extinguisher\", \"Free dryer \\u2013 In unit\", \"Keypad\"]",
+      "[\"Smoke alarm\", \"Kitchen\", \"Dishwasher\", \"Wifi\", \"Shower gel\", \"Hot water\", \"Coffee maker\", \"Private entrance\", \"Hair dryer\", \"Body soap\", \"Dryer\", \"Carbon monoxide alarm\", \"Bed linens\", \"Bathtub\", \"Cooking basics\", \"Shampoo\", \"Iron\", \"Wine glasses\", \"TV with standard cable\", \"Dedicated workspace\", \"Microwave\", \"Dining table\", \"Heating\", \"Washer\", \"Smart lock\", \"Extra pillows and blankets\", \"Pets allowed\", \"Oven\", \"Noise decibel monitors on property\", \"Air conditioning\", \"Patio or balcony\", \"Essentials\", \"Coffee\", \"Clothing storage: closet\", \"Conditioner\", \"Free parking on premises\", \"Dishes and silverware\", \"Hangers\", \"Refrigerator\", \"Self check-in\", \"Freezer\", \"Free street parking\", \"Cleaning products\", \"Stove\"]"
+    ],
+    "has_availability": [
+      "t"
+    ],
+    "calendar_last_scraped": [
+      "2026-02-15"
+    ],
+    "first_review": [
+      "2014-07-01",
+      "2014-08-15",
+      "2015-05-08",
+      "2015-06-07",
+      "2016-08-07"
+    ],
+    "last_review": [
+      "2022-08-17",
+      "2026-01-25",
+      "2026-02-06",
+      "2025-06-30",
+      "2025-08-03"
+    ]
+  }
+}

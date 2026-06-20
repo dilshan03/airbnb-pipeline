@@ -1,0 +1,527 @@
+{
+  "filename": "Amsterdam_raw",
+  "row_count": 10480,
+  "column_count": 79,
+  "duplicate_count": 0,
+  "null_rate_pct": {
+    "id": 0.0,
+    "listing_url": 0.0,
+    "scrape_id": 0.0,
+    "last_scraped": 0.0,
+    "source": 0.0,
+    "name": 0.0,
+    "description": 3.32,
+    "neighborhood_overview": 50.46,
+    "picture_url": 0.0,
+    "host_id": 0.0,
+    "host_url": 0.0,
+    "host_name": 0.03,
+    "host_since": 0.03,
+    "host_location": 11.76,
+    "host_about": 47.42,
+    "host_response_time": 36.23,
+    "host_response_rate": 36.23,
+    "host_acceptance_rate": 23.19,
+    "host_is_superhost": 1.1,
+    "host_thumbnail_url": 0.03,
+    "host_picture_url": 0.03,
+    "host_neighbourhood": 73.38,
+    "host_listings_count": 0.03,
+    "host_total_listings_count": 0.03,
+    "host_verifications": 0.03,
+    "host_has_profile_pic": 0.03,
+    "host_identity_verified": 0.03,
+    "neighbourhood": 50.46,
+    "neighbourhood_cleansed": 0.0,
+    "neighbourhood_group_cleansed": 100.0,
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "property_type": 0.0,
+    "room_type": 0.0,
+    "accommodates": 0.0,
+    "bathrooms": 43.4,
+    "bathrooms_text": 0.11,
+    "bedrooms": 2.92,
+    "beds": 43.66,
+    "amenities": 0.0,
+    "price": 43.95,
+    "minimum_nights": 0.0,
+    "maximum_nights": 0.0,
+    "minimum_minimum_nights": 0.04,
+    "maximum_minimum_nights": 0.04,
+    "minimum_maximum_nights": 0.04,
+    "maximum_maximum_nights": 0.04,
+    "minimum_nights_avg_ntm": 0.0,
+    "maximum_nights_avg_ntm": 0.0,
+    "calendar_updated": 100.0,
+    "has_availability": 3.27,
+    "availability_30": 0.0,
+    "availability_60": 0.0,
+    "availability_90": 0.0,
+    "availability_365": 0.0,
+    "calendar_last_scraped": 0.0,
+    "number_of_reviews": 0.0,
+    "number_of_reviews_ltm": 0.0,
+    "number_of_reviews_l30d": 0.0,
+    "availability_eoy": 0.0,
+    "number_of_reviews_ly": 0.0,
+    "estimated_occupancy_l365d": 0.0,
+    "estimated_revenue_l365d": 43.95,
+    "first_review": 10.47,
+    "last_review": 10.47,
+    "review_scores_rating": 10.47,
+    "review_scores_accuracy": 10.47,
+    "review_scores_cleanliness": 10.48,
+    "review_scores_checkin": 10.47,
+    "review_scores_communication": 10.47,
+    "review_scores_location": 10.47,
+    "review_scores_value": 10.47,
+    "license": 1.14,
+    "instant_bookable": 0.0,
+    "calculated_host_listings_count": 0.0,
+    "calculated_host_listings_count_entire_homes": 0.0,
+    "calculated_host_listings_count_private_rooms": 0.0,
+    "calculated_host_listings_count_shared_rooms": 0.0,
+    "reviews_per_month": 10.47
+  },
+  "numeric_stats": {
+    "id": {
+      "min": 27886,
+      "max": 1506287353709120640,
+      "mean": 5.92546397015784e+17
+    },
+    "scrape_id": {
+      "min": 20250911031321,
+      "max": 20250911031321,
+      "mean": 20250911031321.0
+    },
+    "host_id": {
+      "min": 1662,
+      "max": 717346955,
+      "mean": 134501911.11269084
+    },
+    "host_listings_count": {
+      "min": 1.0,
+      "max": 957.0,
+      "mean": 3.9672616206929465
+    },
+    "host_total_listings_count": {
+      "min": 1.0,
+      "max": 1655.0,
+      "mean": 5.99188699055073
+    },
+    "neighbourhood_group_cleansed": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "latitude": {
+      "min": 52.290276216002695,
+      "max": 52.42512,
+      "mean": 52.36667920224869
+    },
+    "longitude": {
+      "min": 4.75587,
+      "max": 5.02815,
+      "mean": 4.889447078032987
+    },
+    "accommodates": {
+      "min": 1,
+      "max": 16,
+      "mean": 2.9205152671755723
+    },
+    "bathrooms": {
+      "min": 0.0,
+      "max": 17.0,
+      "mean": 1.2298550236008092
+    },
+    "bedrooms": {
+      "min": 0.0,
+      "max": 17.0,
+      "mean": 1.5541576567721644
+    },
+    "beds": {
+      "min": 0.0,
+      "max": 33.0,
+      "mean": 1.7930216802168022
+    },
+    "minimum_nights": {
+      "min": 1,
+      "max": 1001,
+      "mean": 4.390267175572519
+    },
+    "maximum_nights": {
+      "min": 1,
+      "max": 1125,
+      "mean": 282.4530534351145
+    },
+    "minimum_minimum_nights": {
+      "min": 1.0,
+      "max": 1001.0,
+      "mean": 3.8779114165712105
+    },
+    "maximum_minimum_nights": {
+      "min": 1.0,
+      "max": 1001.0,
+      "mean": 4.87877052310042
+    },
+    "minimum_maximum_nights": {
+      "min": 1.0,
+      "max": 2147483647.0,
+      "mean": 410339.9438717068
+    },
+    "maximum_maximum_nights": {
+      "min": 1.0,
+      "max": 2147483647.0,
+      "mean": 410363.5586101565
+    },
+    "minimum_nights_avg_ntm": {
+      "min": 1.0,
+      "max": 1001.0,
+      "mean": 4.374828244274809
+    },
+    "maximum_nights_avg_ntm": {
+      "min": 1.0,
+      "max": 2147483647.0,
+      "mean": 410197.7092270992
+    },
+    "calendar_updated": {
+      "min": null,
+      "max": null,
+      "mean": null
+    },
+    "availability_30": {
+      "min": 0,
+      "max": 30,
+      "mean": 5.156679389312977
+    },
+    "availability_60": {
+      "min": 0,
+      "max": 60,
+      "mean": 12.38206106870229
+    },
+    "availability_90": {
+      "min": 0,
+      "max": 90,
+      "mean": 21.455152671755727
+    },
+    "availability_365": {
+      "min": 0,
+      "max": 365,
+      "mean": 93.99980916030535
+    },
+    "number_of_reviews": {
+      "min": 0,
+      "max": 5097,
+      "mean": 47.813358778625954
+    },
+    "number_of_reviews_ltm": {
+      "min": 0,
+      "max": 949,
+      "mean": 8.588072519083969
+    },
+    "number_of_reviews_l30d": {
+      "min": 0,
+      "max": 89,
+      "mean": 0.6860687022900763
+    },
+    "availability_eoy": {
+      "min": 0,
+      "max": 112,
+      "mean": 27.784446564885496
+    },
+    "number_of_reviews_ly": {
+      "min": 0,
+      "max": 835,
+      "mean": 8.195133587786259
+    },
+    "estimated_occupancy_l365d": {
+      "min": 0,
+      "max": 255,
+      "mean": 48.43893129770992
+    },
+    "estimated_revenue_l365d": {
+      "min": 0.0,
+      "max": 2480558.0,
+      "mean": 15811.941607082057
+    },
+    "review_scores_rating": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.844095704998401
+    },
+    "review_scores_accuracy": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.853297452840243
+    },
+    "review_scores_cleanliness": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.777810701342997
+    },
+    "review_scores_checkin": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.894101033784504
+    },
+    "review_scores_communication": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.907071299158052
+    },
+    "review_scores_location": {
+      "min": 2.0,
+      "max": 5.0,
+      "mean": 4.817007353724821
+    },
+    "review_scores_value": {
+      "min": 1.0,
+      "max": 5.0,
+      "mean": 4.653917723542577
+    },
+    "calculated_host_listings_count": {
+      "min": 1,
+      "max": 35,
+      "mean": 1.8440839694656488
+    },
+    "calculated_host_listings_count_entire_homes": {
+      "min": 0,
+      "max": 32,
+      "mean": 1.2177480916030534
+    },
+    "calculated_host_listings_count_private_rooms": {
+      "min": 0,
+      "max": 15,
+      "mean": 0.5601145038167938
+    },
+    "calculated_host_listings_count_shared_rooms": {
+      "min": 0,
+      "max": 9,
+      "mean": 0.029103053435114504
+    },
+    "reviews_per_month": {
+      "min": 0.01,
+      "max": 99.42,
+      "mean": 0.9986678034743686
+    }
+  },
+  "string_samples": {
+    "listing_url": [
+      "https://www.airbnb.com/rooms/27886",
+      "https://www.airbnb.com/rooms/28871",
+      "https://www.airbnb.com/rooms/29051",
+      "https://www.airbnb.com/rooms/44391",
+      "https://www.airbnb.com/rooms/48373"
+    ],
+    "last_scraped": [
+      "2025-09-11"
+    ],
+    "source": [
+      "city scrape",
+      "previous scrape"
+    ],
+    "name": [
+      "Romantic, stylish B&B houseboat in canal district",
+      "Comfortable double room",
+      "Comfortable single / double room",
+      "Quiet 2-bedroom Amsterdam city centre apartment",
+      "Cozy family home in Amsterdam South"
+    ],
+    "description": [
+      "Stylish and romantic houseboat on fantastic historic location with breathtaking view.  Wheelhouse, deckhouse and captains room. Central, quiet. Great breakfast, 2 vanMoof design bikes and a Canadian Canoe are included. Just read the reviews on tripadvisor for instance!",
+      "Basic bedroom in the center of Amsterdam.",
+      "This room can also be rented as a single or a small double<br /><br />Also a cat lives here",
+      "Guests greatly appreciate the unique location of the apartment. It is located in a very quiet part of the city centre whilst only 1,5km away from central station. A bus takes you there directly in just five minutes. Restaurants, bars, musea, the Amsterdam Zoo and the popular citypark Marineterrein are just around the corner. The apartment itself is very well isolated so you can sleep in silence. The large private terrace provides you, directly from the kitchen, a nice outdoor space! Have a look!",
+      "Charming modern apartment in the quiet and green Southern part of Amsterdam, surrounded by trees and parks. Ideal for family stay as there are also playgrounds for children in the neighbourhood. <br />Minimum stay 7 days.<br />City center is about 15 minutes away by public transport or bicycle where you can find amazing and the best Amsterdam restaurants and famous museums."
+    ],
+    "neighborhood_overview": [
+      "Central, quiet, safe, clean and beautiful.",
+      "Flower market , Leidseplein , Rembrantsplein",
+      "the street is quite lively especially on weekends when the weather is good",
+      "The appartment is located in the city centre. Famous Amsterdam places such as the Amsterdam Zoo and the Maritime Museam are in 5 minutes walking distance. The supermarket is literally the next door!",
+      "Apartment is located between Amsterdamse Bos and Amstel Park. in the very green and quiet area. Shopping-mall Gelderlandplein is 10 minutes walk."
+    ],
+    "picture_url": [
+      "https://a0.muscache.com/pictures/02c2da9d-660e-451d-8a51-2f7a17469df7.jpg",
+      "https://a0.muscache.com/pictures/160889/362340f7_original.jpg",
+      "https://a0.muscache.com/pictures/162009/bd6be2f8_original.jpg",
+      "https://a0.muscache.com/pictures/97741545/39000c13_original.jpg",
+      "https://a0.muscache.com/pictures/miso/Hosting-48373/original/ee2d14f7-27cb-46e9-b623-15e1080725e5.jpeg"
+    ],
+    "host_url": [
+      "https://www.airbnb.com/users/show/97647",
+      "https://www.airbnb.com/users/show/124245",
+      "https://www.airbnb.com/users/show/194779",
+      "https://www.airbnb.com/users/show/220434",
+      "https://www.airbnb.com/users/show/225987"
+    ],
+    "host_name": [
+      "Flip",
+      "Edwin",
+      "Jan",
+      "Vesna & Misha",
+      "Joanna & MP"
+    ],
+    "host_since": [
+      "2010-03-23",
+      "2010-05-13",
+      "2010-08-08",
+      "2010-09-01",
+      "2010-09-06"
+    ],
+    "host_location": [
+      "Amsterdam, Netherlands",
+      "Nieuw Sloten, Netherlands",
+      "Ouderkerk aan de Amstel, Netherlands",
+      "New York, NY",
+      "London, United Kingdom"
+    ],
+    "host_about": [
+      "Marjan works in \"eye\" the dutch filmmuseum, and designs costumes for tv, film and theatre. Flip is an actor, mainly on stage, but also for film and tv. So for cultural advise, what to do, you are coming to the right place...\r\n\r\n",
+      "Hi",
+      "Love to travel while hosting and to host while travelling!",
+      "Joanna is from London and MP is from Amsterdam. We have a lot to thank travel and hospitality for. We fell in love at first sight when Joanna went to Amsterdam to review boutique hotels and walked into the one MP was running. The rest, as they say, is history. These days MP is a professional pianist and Joanna is the distributor of Micro scooters for the Netherlands and has a store across the street from the house. In 2006 we bought our house from an old lady who had lived in it for 38 years. We have completely renovated it and now live here very happily with our two daughters. We love to travel, we love music and we love good food. We also really love Amsterdam! We can tip you off about local hangouts that you have to live here to know about and all the highlights that you really ought to see whilst you're here. This is the best area of the city to live in, that's why we picked it. Everything we need is right on our doorstep, we hardly ever have to leave our 'hood. You'll love it here too!",
+      "An independent professional living and working in Amsterdam. Like to meet new people and help them to get around. Love culture, art, architecture and design. A very warm welcome to you all!"
+    ],
+    "host_response_time": [
+      "within an hour",
+      "within a few hours",
+      "a few days or more",
+      "within a day"
+    ],
+    "host_response_rate": [
+      "100%",
+      "0%",
+      "95%",
+      "40%",
+      "88%"
+    ],
+    "host_acceptance_rate": [
+      "97%",
+      "99%",
+      "93%",
+      "100%",
+      "19%"
+    ],
+    "host_is_superhost": [
+      "t",
+      "f"
+    ],
+    "host_thumbnail_url": [
+      "https://a0.muscache.com/im/users/97647/profile_pic/1273275077/original.jpg?aki_policy=profile_small",
+      "https://a0.muscache.com/im/pictures/user/9986bbdb-632f-42b5-a866-8e3307184977.jpg?aki_policy=profile_small",
+      "https://a0.muscache.com/im/users/194779/profile_pic/1436464796/original.jpg?aki_policy=profile_small",
+      "https://a0.muscache.com/im/pictures/user/User-220434/original/6559512c-20fa-45ac-b45c-0e0eb9773c5f.jpeg?aki_policy=profile_small",
+      "https://a0.muscache.com/im/pictures/user/User-225987/original/4af6a4dd-5b81-4045-ad69-8601c2c4fa91.jpeg?aki_policy=profile_small"
+    ],
+    "host_picture_url": [
+      "https://a0.muscache.com/im/users/97647/profile_pic/1273275077/original.jpg?aki_policy=profile_x_medium",
+      "https://a0.muscache.com/im/pictures/user/9986bbdb-632f-42b5-a866-8e3307184977.jpg?aki_policy=profile_x_medium",
+      "https://a0.muscache.com/im/users/194779/profile_pic/1436464796/original.jpg?aki_policy=profile_x_medium",
+      "https://a0.muscache.com/im/pictures/user/User-220434/original/6559512c-20fa-45ac-b45c-0e0eb9773c5f.jpeg?aki_policy=profile_x_medium",
+      "https://a0.muscache.com/im/pictures/user/User-225987/original/4af6a4dd-5b81-4045-ad69-8601c2c4fa91.jpeg?aki_policy=profile_x_medium"
+    ],
+    "host_neighbourhood": [
+      "Westelijke Eilanden",
+      "Amsterdam Centrum",
+      "Oostelijke Eilanden en Kadijken",
+      "Grachtengordel",
+      "Oud-West"
+    ],
+    "host_verifications": [
+      "['email', 'phone']",
+      "['email', 'phone', 'work_email']",
+      "['phone']",
+      "['phone', 'work_email']",
+      "['email']"
+    ],
+    "host_has_profile_pic": [
+      "t",
+      "f"
+    ],
+    "host_identity_verified": [
+      "t",
+      "f"
+    ],
+    "neighbourhood": [
+      "Amsterdam, North Holland, Netherlands",
+      "Amsterdam, Noord-Holland, Netherlands",
+      "Amsterdam, NH, Netherlands",
+      "Watergraafsmeer, North Holland, Netherlands",
+      "Zeeburg, North Holland, Netherlands"
+    ],
+    "neighbourhood_cleansed": [
+      "Centrum-West",
+      "Centrum-Oost",
+      "Buitenveldert - Zuidas",
+      "Bos en Lommer",
+      "IJburg - Zeeburgereiland"
+    ],
+    "property_type": [
+      "Private room in houseboat",
+      "Private room in rental unit",
+      "Private room in condo",
+      "Entire rental unit",
+      "Entire guest suite"
+    ],
+    "room_type": [
+      "Private room",
+      "Entire home/apt",
+      "Hotel room",
+      "Shared room"
+    ],
+    "bathrooms_text": [
+      "1.5 baths",
+      "1 shared bath",
+      "1 bath",
+      "1 private bath",
+      "2 baths"
+    ],
+    "amenities": [
+      "[\"Canal view\", \"Coffee\", \"Private backyard \\u2013 Not fully fenced\", \"Bikes\", \"Portable fans\", \"Books and reading material\", \"Fast wifi \\u2013 245 Mbps\", \"Hangers\", \"Paid street parking off premises\", \"Shower gel\", \"Breakfast\", \"Wine glasses\", \"Dining table\", \"Private living room\", \"Hot water\", \"Bed linens\", \"TV with standard cable\", \"Heating - split type ductless system\", \"Long term stays allowed\", \"Central heating\", \"Self check-in\", \"Private patio or balcony\", \"City skyline view\", \"Shampoo\", \"Kayak\", \"Fire extinguisher\", \"Luggage dropoff allowed\", \"Outdoor dining area\", \"Hp neutral, eco friendly body soap\", \"Garden view\", \"Laundromat nearby\", \"Air conditioning\", \"Lake access\", \"Smart lock\", \"Dedicated workspace\", \"Boat slip\", \"Mini fridge\", \"Harbor view\", \"Hair dryer\", \"Private entrance\", \"Carbon monoxide alarm\", \"Coffee maker: Nespresso\", \"Safe\", \"Extra pillows and blankets\", \"Smoke alarm\", \"Refrigerator\", \"Essentials\", \"Outdoor furniture\", \"Waterfront\", \"Clothing storage: closet\"]",
+      "[\"Heating\", \"Lock on bedroom door\", \"Hair dryer\", \"Private entrance\", \"Carbon monoxide alarm\", \"Cleaning products\", \"Smoke alarm\", \"Refrigerator\", \"Wifi\", \"Hot water\", \"Bed linens\", \"Hangers\", \"Essentials\", \"Host greets you\", \"Iron\", \"Shampoo\", \"Coffee maker\", \"Fire extinguisher\"]",
+      "[\"Heating\", \"Lock on bedroom door\", \"Hair dryer\", \"Private entrance\", \"Carbon monoxide alarm\", \"Smoke alarm\", \"Refrigerator\", \"Wifi\", \"Hot water\", \"Bed linens\", \"Hangers\", \"Essentials\", \"Host greets you\", \"Iron\", \"Shampoo\", \"Coffee maker\", \"Shower gel\", \"Fire extinguisher\"]",
+      "[\"Wifi\", \"Hangers\", \"Shower gel\", \"Washer\", \"Hot water\", \"Bed linens\", \"TV with standard cable\", \"Iron\", \"Cooking basics\", \"Shampoo\", \"Dishes and silverware\", \"Coffee maker\", \"Luggage dropoff allowed\", \"Microwave\", \"Air conditioning\", \"Stove\", \"Paid parking on premises\", \"Host greets you\", \"Oven\", \"Paid parking off premises\", \"Heating\", \"Hair dryer\", \"Private entrance\", \"Carbon monoxide alarm\", \"Dishwasher\", \"Smoke alarm\", \"Extra pillows and blankets\", \"Refrigerator\", \"Kitchen\", \"Essentials\", \"Patio or balcony\"]",
+      "[\"Courtyard view\", \"Free dryer \\u2013 In unit\", \"Books and reading material\", \"Wifi\", \"Hangers\", \"Hot water kettle\", \"Piano\", \"Wine glasses\", \"Cleaning products\", \"Dining table\", \"TV\", \"Hot water\", \"Bed linens\", \"Long term stays allowed\", \"Outdoor playground\", \"Central heating\", \"Iron\", \"Room-darkening shades\", \"Cooking basics\", \"Dishes and silverware\", \"Coffee maker\", \"Laundromat nearby\", \"Trash compactor\", \"Stove\", \"Drying rack for clothing\", \"Dedicated workspace\", \"Oven\", \"Bathtub\", \"Hair dryer\", \"Carbon monoxide alarm\", \"Dishwasher\", \"Smoke alarm\", \"Extra pillows and blankets\", \"Refrigerator\", \"Kitchen\", \"Essentials\", \"Free washer \\u2013 In unit\", \"Clothing storage: closet\"]"
+    ],
+    "price": [
+      "$132.00",
+      "$89.00",
+      "$61.00",
+      "$322.00",
+      "$457.00"
+    ],
+    "has_availability": [
+      "t"
+    ],
+    "calendar_last_scraped": [
+      "2025-09-11"
+    ],
+    "first_review": [
+      "2012-01-09",
+      "2010-08-22",
+      "2011-03-16",
+      "2010-09-16",
+      "2023-07-21"
+    ],
+    "last_review": [
+      "2025-09-07",
+      "2025-09-08",
+      "2022-08-20",
+      "2024-04-28",
+      "2025-08-26"
+    ],
+    "license": [
+      "0363 974D 4986 7411 88D8",
+      "0363 607B EA74 0BD8 2F6F",
+      "0363 E76E F06A C1DD 172C",
+      "0363 4A2B A6AD 0196 F684",
+      "0363 576A D827 5085 6B83"
+    ],
+    "instant_bookable": [
+      "f",
+      "t"
+    ]
+  }
+}
